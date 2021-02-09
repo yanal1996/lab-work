@@ -1,2 +1,3 @@
 # lab-work
-[cars](cars.html)
+[cars](Cars.html)
+[Function](carsfunction.html)
