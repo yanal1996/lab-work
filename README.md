@@ -1,2 +1,2 @@
 # lab-work
-(cars)[cars.html]
+[cars](cars.html)
